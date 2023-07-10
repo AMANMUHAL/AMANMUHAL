@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Aman Muhal,
-A passionate and dedicated Full Stack Developer with expertise in developing web applications. I love working with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to build robust and user-friendly software solutions.
+A passionate and dedicated Full Stack Developer with expertise in developing web applications. I'm a beginner who loves working with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to build robust and user-friendly software solutions.
 
 🔭 I’m currently working on enhancing my skills in React.js and exploring serverless architectures.
 
