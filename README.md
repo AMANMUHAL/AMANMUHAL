@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Aman Muhal,
 
+![image](https://github.com/AMANMUHAL/AMANMUHAL/assets/101124129/4e8dba5b-fb12-4ffd-a5cb-af559cefe3d6)
+
 
 A passionate and dedicated Full Stack Developer with expertise in developing web applications. I'm a beginner who loves working with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to build robust and user-friendly software solutions.
 
